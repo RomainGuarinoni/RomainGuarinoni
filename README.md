@@ -37,6 +37,7 @@ Let me introduce myself  👦
 <img src="https://img.shields.io/badge/SOCKET-010101?style=for-the-badge&logo=socketdotio&logoColor=white">
 <img src="https://img.shields.io/badge/REDIS-d52c20?style=for-the-badge&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/STORYBOOK-f74580?style=for-the-badge&logo=storybook&logoColor=white">
+<img src="https://img.shields.io/badge/DOCKER-0997e5?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/JEST-66666?style=for-the-badge&logo=jest&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
