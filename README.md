@@ -16,6 +16,7 @@ Let me introduce myself  👦
 - 🎯 I want to contribute more to open source projects
 - 🎵 I'm a musician, I play drums, guitar and piano, and i really love talking about music
 - 👨‍💻 I'm a tech enjoyer and i really love discovering new technologies and talking about computer science in general
+- 🎮 I'm a really big fan of CS:GO
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
