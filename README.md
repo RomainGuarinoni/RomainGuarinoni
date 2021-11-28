@@ -25,9 +25,10 @@ Let me introduce myself  👦
   <summary> <strong> Main Technologies and Languages </strong> </summary>
 <img src="https://img.shields.io/badge/HTML-F16529?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-2962E9?style=for-the-badge&logo=css3&logoColor=white">
-<img src="(https://img.shields.io/badge/JAVASCRIPT-EFD81D?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-2962E9?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JAVASCRIPT-EFD81D?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/TYPESCRIPT-2E74C0?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/REACT-5ED3F3?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/REACT-30afd1?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/VUE-3FB27F?style=for-the-badge&logo=vuedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/NODE_JS-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/EXPRESS-5E5E5E?style=for-the-badge&logo=express&logoColor=white">
@@ -40,13 +41,15 @@ Let me introduce myself  👦
 <img src="https://img.shields.io/badge/STORYBOOK-f74580?style=for-the-badge&logo=storybook&logoColor=white">
 <img src="https://img.shields.io/badge/DOCKER-0997e5?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/JEST-66666?style=for-the-badge&logo=jest&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/JEST-66666?style=for-the-badge&logo=jest&logoColor=white">
+<img src="https://img.shields.io/badge/FLUTTER-6bb7f1?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/GITHUB-94404d?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/GITHUB_ACTIONS-2084f7?style=for-the-badge&logo=githubactions&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white">
 <img src="(https://img.shields.io/badge/LINUX-666666?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/NPM-c60000?style=for-the-badge&logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/FIGMA-f76e5f?style=for-the-badge&logo=figma&logoColor=white">
 </details> 
 
 
