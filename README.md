@@ -41,7 +41,6 @@ Let me introduce myself  👦
 <img src="https://img.shields.io/badge/STORYBOOK-f74580?style=for-the-badge&logo=storybook&logoColor=white">
 <img src="https://img.shields.io/badge/DOCKER-0997e5?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/JEST-66666?style=for-the-badge&logo=jest&logoColor=white">
-<img src="https://img.shields.io/badge/JEST-66666?style=for-the-badge&logo=jest&logoColor=white">
 <img src="https://img.shields.io/badge/FLUTTER-6bb7f1?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/GITHUB-94404d?style=for-the-badge&logo=github&logoColor=white">
