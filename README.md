@@ -27,7 +27,7 @@ Let me introduce myself  👦
 <img src="https://img.shields.io/badge/CSS-2962E9?style=for-the-badge&logo=css3&logoColor=white">
 <img src="(https://img.shields.io/badge/JAVASCRIPT-EFD81D?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/TYPESCRIPT-2E74C0?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="(https://img.shields.io/badge/REACT-5ED3F3?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/REACT-5ED3F3?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/VUE-3FB27F?style=for-the-badge&logo=vuedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/NODE_JS-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/EXPRESS-5E5E5E?style=for-the-badge&logo=express&logoColor=white">
