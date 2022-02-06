@@ -25,7 +25,6 @@ Let me introduce myself  👦
   <summary> <strong> Main Technologies and Languages </strong> </summary>
 <img src="https://img.shields.io/badge/HTML-F16529?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-2962E9?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-2962E9?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JAVASCRIPT-EFD81D?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/TYPESCRIPT-2E74C0?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/REACT-30afd1?style=for-the-badge&logo=react&logoColor=white">
@@ -46,7 +45,7 @@ Let me introduce myself  👦
 <img src="https://img.shields.io/badge/GITHUB-94404d?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/GITHUB_ACTIONS-2084f7?style=for-the-badge&logo=githubactions&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white">
-<img src="(https://img.shields.io/badge/LINUX-666666?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/LINUX-666666?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/NPM-c60000?style=for-the-badge&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/FIGMA-f76e5f?style=for-the-badge&logo=figma&logoColor=white">
 </details> 
